@@ -1,0 +1,3 @@
+Ravindra,35,Architect,10000,Male
+Sue,30,HR,11000,Female
+Smith,26,SE,8000,Male
